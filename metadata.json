@@ -1,0 +1,7 @@
+{
+  "author": "jl",
+  "strategy_type": "momentum",
+  "risk_level": "medium",
+  "description": "Example momentum trading strategy",
+  "version": "1.0"
+}
